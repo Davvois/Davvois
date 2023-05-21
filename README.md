@@ -2,7 +2,7 @@
 - ⚡Non troverete molto qua, dal momento che programmo tanto per divertirmi 
 - 🔭Sto attualmente lavorando ad un plugin per un server di Minecraft 
 - 💬Sto lavorando con "Fiorentina World" per creare un sito...(Fatto da me) 
-- 🌱So usare: C++, HTML, CSS, Java, Python, C# (Ci stiamo lavorando 😄)
+- 🌱Attualmente programmando con: C, HTML e CSS, Java
 
 Per contattarmi: ErBo$$e#7142.
 <!--
