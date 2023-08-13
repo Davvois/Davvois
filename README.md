@@ -4,7 +4,7 @@
 - 💬Sto lavorando con "Fiorentina World" per creare un sito...(Fatto da me) 
 - 🌱Attualmente programmando con: C, HTML e CSS, Java
 
-Per contattarmi: ErBo$$e#7142.
+Per contattarmi: "Davvo." su Discord
 <!--
 **Davvois/Davvois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
