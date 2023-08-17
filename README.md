@@ -1,10 +1,10 @@
 ### Davvo's profile.
 - ⚡Non troverete molto qua, dal momento che programmo tanto per divertirmi 
-- 🔭Sto attualmente lavorando ad un plugin per un server di Minecraft 
-- 💬Sto lavorando con "Fiorentina World" per creare un sito...(Fatto da me) 
+- 🔭Sto cercando di imparare C come linguaggio principale
+- 💬Sto attualmente creando un sito
 - 🌱Attualmente programmando con: C, HTML e CSS, Java
+- 📫Per contattarmi: "Davvo." su Discord
 
-Per contattarmi: "Davvo." su Discord
 <!--
 **Davvois/Davvois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
