@@ -9,8 +9,8 @@
 
 - 💬Sto attualmente creando un sito
 
-<h2 align="left">I miei social:</h2>
-<p align="left">
+<h2 align="center">I miei social:</h2>
+<p align="center">
 <a href="https://stackoverflow.com/users/20153308/davvoss" target="blank"><img target="blank" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="davvoss" height="30" width="40" /> StackOverflow</a> </br></br>
 <a href="https://www.hackerrank.com/davvos" target="blank"><img align="center" target="blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@davvos" height="30" width="40" /> HackerRank</a> </br></br>
 </p>
