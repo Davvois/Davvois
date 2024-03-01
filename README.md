@@ -1,13 +1,7 @@
 <h1 align="center">Davvo's profile</h1>
 <h3 align="center">A programmer, maybe.</h3>
 
-- ⚡Non troverete molto qua, dal momento che programmo tanto per divertirmi
-
-- 📫Per contattarmi: "Davvo." su Discord
-
-- 🔭Sto cercando di imparare C come linguaggio principale
-
-- 💬Sto attualmente creando un sito
+⚡ Programming for fun and passion ;) ⚡
 
 <h2 align="center">I miei social:</h2>
 <p align="center">
