@@ -1,7 +1,7 @@
 <h1 align="center">Davvo's profile</h1>
 <h3 align="center">A programmer, maybe.</h3>
 
-🌌 Programming for fun and passion ;) 🌌
+<p align="center">🌌 Programming for fun and passion ;) 🌌</p>
 
 <h2 align="center">📈My Socials📈</h2>
 <p align="center">
