@@ -2,6 +2,9 @@
 <h3 align="center">A programmer, maybe.</h3>
 
 <p align="center">🌌 Programming for fun and passion ;) 🌌</p>
+</br>
+</br>
+</br>
 
 <h2 align="center">📈My Socials📈</h2>
 <p align="center">
